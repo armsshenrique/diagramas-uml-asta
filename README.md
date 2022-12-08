@@ -6,7 +6,7 @@
 
 ## 🛠️ Construído com
 
-* [astah](https://astah.net/) - IDE Utilizada
+* [astah](https://astah.net/) - Software utilizado
 
 ## ✒️ Autor
 
